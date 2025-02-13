@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "defaultSchema": "POKEAPI",
+  "schemas": [
+    {
+      "name": "POKEAPI",
+      "type": "custom",
+      "factory": "com.example.PokeApiSchemaFactory",
+      "operand": {}
+    }
+  ]
+}
